@@ -24,4 +24,5 @@ dependencies = [
     "pytest>=8.4.1",
     "stqdm>=0.0.5",
     "huggingface-hub>=0.33.0",
+    "lxt",
 ]
